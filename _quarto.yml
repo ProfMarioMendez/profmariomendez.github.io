@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto Observable Template"
+  title: "Prof M Mendez"
   navbar:
     left:
       - href: index.qmd
