@@ -1,0 +1,69 @@
+---
+title: "Data Table"
+echo: false
+---
+
+# Interactive Data Table
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Below is a basic interactive data table, rendered client-side using **Observable**.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. The table below features searchable and sortable columns, allowing you to explore the data interactively.
+
+```{ojs}
+import {Table} from "@observablehq/inputs"
+
+data = FileAttachment("data/table.csv").csv({typed: true})
+
+viewof table = Table(data, {
+  search: true,
+  sortable: true,
+  width: "100%"
+})
+```
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Data Insights
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+# Data Visualization
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Below is a bar chart showing the values by person and country.
+
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
+```{ojs}
+Plot = require("@observablehq/plot")
+
+Plot.plot({
+  marginLeft: 60,
+  x: {
+    grid: true,
+    label: "Value"
+  },
+  y: {
+    label: "Name"
+  },
+  color: {
+    legend: true,
+    label: "Country"
+  },
+  marks: [
+    Plot.barX(data, {
+      x: "Value",
+      y: "Name",
+      fill: "Country",
+      sort: {y: "-x"},
+      tip: true
+    }),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+## Analysis
+
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
