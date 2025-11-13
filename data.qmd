@@ -1,6 +1,7 @@
 ---
 format:
   html:
+    theme: none
     page-layout: full
     toc: false
     title-block: false
