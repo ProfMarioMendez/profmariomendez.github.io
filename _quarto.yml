@@ -10,7 +10,7 @@ website:
         text: Home
       - href: project.qmd
         text: Projects
-      - href: data.qmd
+      - href: data1.qmd
         text: Data
   page-navigation: true
 
