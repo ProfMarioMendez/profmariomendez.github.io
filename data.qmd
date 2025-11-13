@@ -1,5 +1,5 @@
 ---
-title: "Latin America dashboard"
+title: "Data dashborad for Latin America"
 format:
   html:
     theme: none
