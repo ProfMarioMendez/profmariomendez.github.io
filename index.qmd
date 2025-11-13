@@ -8,19 +8,11 @@ title: "Home"
 
 # Welcome to my website
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am a Professor of Law at Queen Mary University of London (https://www.qmul.ac.uk/).  My main area of research interest is constitutional law (UK, EU and comparative) with a particular interest in direct democracy, and UK, EU and comparative foreign relations law. At Queen Mary University of London I teach constitutional law (UK Public Law), comparative constitutional law and European Union law, and also supervise doctoral research in these areas.    
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I graduated with a first class degree in Law and Politics from Queen Mary University of London. I was awarded the Drapers’ Scholarship to study at the College of William and Mary in Virginia where I  completed an LLM in American Legal Studies. I continued my graduate study at the University of Oxford, where I was awarded a distinction on the BCL programme (and the Vinerian Scholarship Proxime Accessit). I completed my PhD at the European University Institute in Florence under the supervision of Professor Gráinne de Búrca. I was awarded a Post-Graduate Certificate in Academic Practice with distinction by Queen Mary University of London and I am a fellow of the Higher Education Academy.
 
-## Example of heading level 2
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi.
-
-### Example of heading level 3
-
-Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+I have spent periods as a visiting academic at the University of Oxford (Institute of European and Comparative Law), University of Cambridge (Centre for European Legal Studies), the University of Michigan’s Law School, and the University of Zurich (Centre for Research on Direct Democracy). 
 
 :::
 
